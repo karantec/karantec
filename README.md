@@ -11,8 +11,8 @@ Besides of coding I do freelancing works and blogging.
 - [x] Working as a Contributor in Girl’s Script of Code Summer(2023)
       
 **Freelancing:**
-- [x] Build Three websites of client and manages the client business digitally with website build on the NextJs Framework.
-
+[x] Build 20+ Project for the indian and US Client as website and web app on different frameworks. 
+[x] Doing Freelancing from the last 4  years  of Technical Education , An expert and Full Stack Web development love to work on different tech stack. 
 ### My Github Stats ⚡
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=karantec&theme=dracula)
