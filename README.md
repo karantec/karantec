@@ -20,9 +20,7 @@ Besides of coding I do freelancing works and blogging.
 - 📫 How to reach me **karanrana3095@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/17yEO4JGV_Sfo5dg253UV-aXKJja1zSxb/view?usp=sharing](https://drive.google.com/file/d/17yEO4JGV_Sfo5dg253UV-aXKJja1zSxb/view?usp=sharing)
--  <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 [x] Build 20+ Project for the indian and US Client as website and web app on different frameworks. 
 [x] Doing Freelancing from the last 4  years  of Technical Education , An expert and Full Stack Web development love to work on different tech stack. 
 
