@@ -1,18 +1,37 @@
 
-# Karan Rana
-> **karanrana3095@gmail.com**    **Contact No. :** [+91 9798316854](*)
-> 
-<hr/>
+<h1 align="center">Hi 👋, I'm KARAN RANA</h1>
+<h3 align="center">Expert in Frontend & Backend Technologies | Passionate about Creating Scalable and Responsive Web Applications | JavaScript, React, Node.js, Express, MongoD</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=karantec&label=Profile%20views&color=0e75b6&style=flat" alt="karantec" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karantec" alt="karantec" /></a> </p>
+
+- 👨‍💻 All of my projects are available at [https://sinu-new-portfolio.vercel.app/](https://sinu-new-portfolio.vercel.app/)
 
 A full stack developer and a computer science graduate 🎓 from India. Got my computer science degree from **Jharkhand University of Technology , Jharkhand**.
 Besides of coding I do freelancing works and blogging.
 
-**Open Source Contribution :** 
+**Open Source Contribution:** 
 - [x] Working as a Contributor in Girl’s Script of Code Summer(2023)
-      
-**Freelancing:**
+- [x] Working as a maintainer and contributor  in HacktoberFest(2023)
+
+- 💬 Ask me about **Mern Stack**
+
+- 📫 How to reach me **karanrana3095@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/17yEO4JGV_Sfo5dg253UV-aXKJja1zSxb/view?usp=sharing](https://drive.google.com/file/d/17yEO4JGV_Sfo5dg253UV-aXKJja1zSxb/view?usp=sharing)
+  
 [x] Build 20+ Project for the indian and US Client as website and web app on different frameworks. 
 [x] Doing Freelancing from the last 4  years  of Technical Education , An expert and Full Stack Web development love to work on different tech stack. 
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/karanrana30/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/karanrana30/" height="30" width="40" /></a>
+<a href="https://instagram.com/codingditto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codingditto" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/karanrana" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="karanrana" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/karanrana3095/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/karanrana3095/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/karanrana3095" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="karanrana3095" height="30" width="40" /></a>
+</p>
 ### My Github Stats ⚡
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=karantec&theme=dracula)
