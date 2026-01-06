@@ -6,14 +6,28 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karantec" alt="karantec" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://sinu-new-portfolio.vercel.app/](https://sinu-new-portfolio.vercel.app/)
+
 
 A full stack developer and a computer science graduate 🎓 from India. Got my computer science degree from **Jharkhand University of Technology , Jharkhand**.
 Besides of coding I do freelancing works and blogging.
+### 💼 Freelancing Experience
+
+- 🌍 **100+ international clients** (US, Europe, Middle East)
+- 🇮🇳 **50+ Indian clients**
+- 📊 **26 active Indian clients in 2025 alone**
+- 🛠️ Delivered **20+ production websites & web applications**
+- 🔁 Long-term clients with recurring maintenance & feature upgrades
+
+I’ve worked on:
+- SaaS platforms
+- Dashboards & Admin panels
+- E-commerce systems
+- Authentication & payment integrations
+- Performance optimization & scalability
 
 **Open Source Contribution:** 
-- [x] Working as a Contributor in Girl’s Script of Code Summer(2023)
-- [x] Working as a maintainer and contributor  in HacktoberFest(2023)
+- [x] Worked as a Contributor in Girl’s Script of Code Summer(2023)
+- [x] Workied as a maintainer and contributor  in HacktoberFest(2023)
 
 - 💬 Ask me about **Mern Stack**
 
@@ -26,7 +40,7 @@ Besides of coding I do freelancing works and blogging.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/karanrana30/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/karanrana30/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/karanrana30/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/karanrana30/" height="30" width="40" /></a>
 <a href="https://instagram.com/codingditto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codingditto" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/karanrana" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="karanrana" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/karanrana3095/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/karanrana3095/" height="30" width="40" /></a>
